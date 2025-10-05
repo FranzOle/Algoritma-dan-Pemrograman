@@ -1,11 +1,19 @@
-Algoritma-dan-Pemrograman
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Folder Python Punya Lionel</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="text-center p-4 bg-light rounded shadow">
+            <h1 class="text-dark">Folder Python Punya Lionel</h1>
+            <p class="lead">Jangan di utak-atik kontolll</p>
+        </div>
+    </div>
 
-🌟 Petualangan Koding di Dunia Algoritma dan Pemrograman! 🌟
-
-Repo ini adalah kumpulan tugas dan eksplorasi seru dari mata kuliah Algoritma dan Pemrograman yang saya jalani.
-
-Disusun oleh:
-LIONEL JEVON CHRISMANA PUTRA
-D4 Manajemen Informatika, UNESA
-
-Selamat menjelajah dan semoga menginspirasi! 🚀💻
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
