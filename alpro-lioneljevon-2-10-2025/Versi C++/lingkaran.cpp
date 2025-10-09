@@ -2,15 +2,13 @@
 using namespace std;
 
 int main() {
-	
-	// NOTE MOHON DIPERHATIKAN: JANGAN MEMAKAI WHILE TRUE 
     cout << "++ Menghitung Luas & Keliling Lingkaran ++" << endl;
     
     const double phi = 3.14;
     double r;
-    while(true){
-    	cout << "Masukkan jari-jari lingkaran: ";
-	    cin >> r;
+
+    cout << "Masukkan jari-jari lingkaran: ";
+	cin >> r;
 	   
 	    if (r < 0) {
 	        cout << "Tidak Bisa\n" << endl;
@@ -23,7 +21,7 @@ int main() {
 	        cout << "Keliling lingkaran: " << keliling << "\n" << endl;
 	        break;
 		}
-	}
+	
 
     return 0;
 }
