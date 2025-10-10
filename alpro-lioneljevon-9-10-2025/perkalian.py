@@ -1,6 +1,5 @@
-print("╔══════════════════════════════════════════════════╗")
-print("║{:^50}║".format("TABEL PERKALIAN"))
-print("╚══════════════════════════════════════════════════╝\n")
+print("TABEL PERKALIAN")
+
 
 a = int(input("Masukkan angka pertama : "))
 b = int(input("Masukkan angka kedua   : "))
