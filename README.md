@@ -1,4 +1,4 @@
-#💽🐍 Repo Punya Lionel
+# 💽🐍 Repo Punya Lionel
 
 ---
 
@@ -8,7 +8,7 @@ Isinya macam-macam — mulai dari skrip latihan, tugas, dan eksperimen.
 
 > 💡 **Catatan Penting:**  
 > Bebas banget mau *copy*, belajar, atau modifikasi file dari repo ini.  
-> Asal jangan **plek ketiplek blok** ya, minimal ada niat dikit 😌
+> Asal jangan **plek ketiplek** ya, minimal ada niat dikit 😌
 
 ---
 
@@ -25,5 +25,5 @@ Repo ini bersifat **bebas pakai dan belajar**
 
 ---
 
-**© 2025 Lionel Jevon**  
+**© 2025 Lionel Jevon. Universitas Negeri Surabaya**  
 _Dibuat dengan ❤️._
