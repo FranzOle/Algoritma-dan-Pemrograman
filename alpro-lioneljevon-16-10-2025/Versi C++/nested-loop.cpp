@@ -21,7 +21,7 @@ int main() {
             cout << b << " ";
         }
         cout << endl;
-    }
+    } cout << endl;
 
     for (int x = 1; x <= jumlah; x++) {
         if (x % 2 != 0) {
