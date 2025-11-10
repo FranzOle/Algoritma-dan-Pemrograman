@@ -10,4 +10,4 @@ while x > 0:
     x = x // 2
     y = y * 2
 
-print("Hasil =", hasil)
+print("Hasil adalah: ", hasil)
