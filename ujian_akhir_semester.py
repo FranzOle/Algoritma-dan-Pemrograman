@@ -9,7 +9,6 @@ a = b + a
 print(f"a = {a}")
 print(f"b = {b}")
 print('\n')
-#Maka Jawabannya: a := b - a; b := b - a; a := b + a; (Pilihan pertama) dengan
 
 
 #Soal Nomor 2.
